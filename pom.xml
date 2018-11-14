@@ -57,6 +57,13 @@
 			<version>2.0.0.RELEASE</version>
 		</dependency>
 
+		<!-- CSRF令牌 -->
+		<dependency>
+			<groupId>org.webjars</groupId>
+			<artifactId>js-cookie</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
